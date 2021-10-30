@@ -1,6 +1,6 @@
 # Portfolio: desktop version
 
-a). You need to make sure that your dekstop version looks like the one in the Figma design template that you chose. We include a screenshot of Template 1 below for reference, but you should use the template that you chose.
+a).npx stylelint "**/*.{css,scss}" --fix.
 
 ## Project Name
 
