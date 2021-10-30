@@ -520,7 +520,11 @@ hr {
     width: 100%;
   }
 
-  .tool-list > li {
+  .tool-list ul {
+    list-style: none;
+  }
+
+  .tool-list li {
     height: 122px;
     flex-direction: column;
     align-items: flex-start;
